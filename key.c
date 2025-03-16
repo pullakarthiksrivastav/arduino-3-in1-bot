@@ -1,1 +1,1 @@
-password=AXIAJJ123
+db_password=AXIAJJ123
